@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sophie 👋
 
+I'm a data anlysti who loves turning raw numbers into clear and actionable insights.
+
+### My Focus
+Data visualizaton | Storytelling with data | Business Intelligence | Python
+
+### Feature Projects
+- Analytics Capstone: (https://github.com/sbanton1/RAG_Assessment)
+- Tableau Dashboard: https://public.tableau.com/views/ExerciseParameters/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <!--
 **sbanton1/sbanton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
